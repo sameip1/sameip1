@@ -31,4 +31,6 @@ Want to collaborate on a project or chat about the latest trends in cybersecurit
 
 Thanks for stopping by!
 
-https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100"/>
+</div>
