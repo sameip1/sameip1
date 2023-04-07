@@ -27,10 +27,8 @@ https://github.com/sameip1/github-readme-stats
 
 📫 Get In Touch
 
-Want to collaborate on a project or chat about the latest trends in cybersecurity, coding, or AI? Feel free to reach out to me at [your@email.com].
+Want to collaborate on a project or chat about the latest trends in cybersecurity, coding, or AI? Feel free to reach out to me on twitter: @sameip01
 
 Thanks for stopping by!
 
-Cybersecurity Gif
-Coding Gif
-AI Gif
+https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif
